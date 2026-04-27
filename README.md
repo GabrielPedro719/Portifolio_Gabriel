@@ -8,7 +8,7 @@ Portifólio de tecnologias de Gabriel Pedro Moreira
 ### 📫 Contato & Redes Sociais
 LinkedIn: www.linkedin.com/in/gabriel-pedro-991727248
 E-mail: Gabrielped719@gmail.com 
-[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](LINK_DO_PDF_OU_SITE)
+[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](file:///C:/Users/GABRIELPEDROMOREIRA/Downloads/North.pdf)
  
 ---
  
@@ -23,7 +23,7 @@ Atualmente cursando o 2º período de Analise e Desenvolvimento de Sistemas na U
 ### 🛠 Minhas Ferramentas Favoritas
  
 #### 💻 Linguagens e Tecnologias
-Python
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
  
 #### 🤖 Inteligência Artificial & Ciência de Dados
