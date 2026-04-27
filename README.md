@@ -28,7 +28,7 @@ Python
  
 #### 🤖 Inteligência Artificial & Ciência de Dados
 ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
-Figma
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
  
 ---
  
