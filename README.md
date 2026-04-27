@@ -1,6 +1,6 @@
 # Portifolio_Gabriel
 Portifólio de tecnologias de Gabriel Pedro Moreira
-# [Gabriel Pedro Moreira]
+# Gabriel Pedro Moreira
 > Estudante de [Analise e Desenvolvimento de Sistemas]
  
 ---
