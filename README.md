@@ -6,9 +6,10 @@ Portifólio de tecnologias de Gabriel Pedro Moreira
 ---
  
 ### 📫 Contato & Redes Sociais
-LinkedIn: www.linkedin.com/in/gabriel-pedro-991727248
-E-mail: Gabrielped719@gmail.com 
-[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)file:///C:/Users/GABRIELPEDROMOREIRA/Downloads/North.pdf
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gabriel-pedro-991727248)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielped719@gmail.com)
+[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](file:///C:/Users/GABRIELPEDROMOREIRA/Downloads/North.pdf)
+ 
  
  
 ### 👨‍💻 Sobre
