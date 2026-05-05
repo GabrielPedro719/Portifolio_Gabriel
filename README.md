@@ -36,8 +36,14 @@ Atualmente cursando o 2º período de Analise e Desenvolvimento de Sistemas na U
  #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
-| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) | 
+| **SM1 - A Corrida do Prompt** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
+| **SM2 - Laboratório de Classificação Visual** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) | 
+| **SM3 - Batalha de Modelos & Engenharia de Prompt (XML)** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) | 
+| **SM4 - Engenharia Reversa** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) | 
+| **SM5 - Do Clone ao Produto Mínimo Viável (MVP+)** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) | 
+| **SM6 - Engenharia de Software e IA com Bubble.io** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) | 
+| **SM7 - Desenvolvimento de App de Videoconferência com Manus AI e Jitsi** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) | 
+
 
 ---
  
