@@ -43,7 +43,7 @@ Atualmente cursando o 2º período de Analise e Desenvolvimento de Sistemas na U
 | **SM5 - Do Clone ao Produto Mínimo Viável (MVP+)** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](https://github.com/GabrielPedro719/portfolio-gabriel-pedro-moreira/tree/main/SM5-Do-Clone-ao-Produto-M%C3%ADnimo-Vi%C3%A1vel-(MVP%2B)) | 
 | **SM6 - Engenharia de Software e IA com Bubble.io** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](https://github.com/GabrielPedro719/portfolio-gabriel-pedro-moreira/tree/main/SM6-Engenharia-de-Software-e-IA-com%20Bubble) | 
 | **SM7 - Desenvolvimento de App de Videoconferência com Manus AI e Jitsi** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](https://github.com/GabrielPedro719/portfolio-gabriel-pedro-moreira/tree/main/SM7-Desenvolviento-de-App-de-Videoconfer%C3%AAncia-com-Manus-AI-e-Jitsi) | 
-| **SM8 - Composição Musical Assistida por Inteligência Artificial** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](projeto-jitsi-meet-jitsi-chess) | 
+| **SM8 - Composição Musical Assistida por Inteligência Artificial** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](https://github.com/GabrielPedro719/portfolio-gabriel-pedro-moreira/tree/main/SM8-Composi%C3%A7%C3%A3o-Musical-Assistida-por-Intelig%C3%AAncia-Artificial) | 
 
 
 ---
