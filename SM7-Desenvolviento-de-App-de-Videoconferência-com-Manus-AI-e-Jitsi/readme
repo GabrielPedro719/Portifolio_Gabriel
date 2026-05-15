@@ -1,0 +1,197 @@
+# Jitsi Chess
+
+**Jogue xadrez com um amigo enquanto vê suas reações em tempo real.**
+
+Um aplicativo móvel que combina uma partida de xadrez ao vivo com videoconferência integrada, permitindo que dois jogadores se enfrentem no tabuleiro enquanto conversam e se veem durante toda a partida.
+
+---
+
+## 📱 Preview
+
+### Acesso Rápido via QR Code
+
+Escaneie o código abaixo com seu dispositivo Android (Expo Go) para testar o app instantaneamente:
+
+![Expo QR Code](https://private-us-east-1.manuscdn.com/sessionFile/wpBI9T1Bf8mshnNoUhM7qc/sandbox/jpdKwhndUorV6mMaiiAPlu-images_1777943643408_na1fn_L2hvbWUvdWJ1bnR1L2ppdHNpLWNoZXNzLW1vYmlsZS9leHBvLXFyLWNvZGU.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvd3BCSTlUMUJmOG1zaG5Ob1VoTTdxYy9zYW5kYm94L2pwZEt3aG5kVW9yVjZtTWFpaUFQbHUtaW1hZ2VzXzE3Nzc5NDM2NDM0MDhfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwycHBkSE5wTFdOb1pYTnpMVzF2WW1sc1pTOWxlSEJ2TFhGeUxXTnZaR1UucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk4NzYxNjAwfX19XX0_&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=rfM9zO-pJnJVx46A8QpegsHbBbnBj0XxSb8U1KPExcEIDvdsZSNvCHla78k6ox9nXVsBIuKxTUUYukcTBYzQrS4ckstG8YAGGtWE-kwII1VswOxrN0MR9B~7B9HokBGr~USydtHq-GbaHogQ47jqK5gTnGl7yizZ0pqpk15B5v83TAH-AnF8e7xBjHgp-JpqwbprOngGoUkA5Ws~lN8lISPqJXlHYtQESx6F89abHFcdTTDTXHsNHDiyBc8udL4TLPzQmBORXDmggBsyyoQCSwV9q4Rk-6Lp5mqZ85Y6R31oU2iORHMR1iPjrwHb7CA-WB7Wvc6YbWmraJSv3ZnM5A__)
+
+**URL de Pré-visualização:** [https://8081-igt87uhrbgx8d9yjt53rc-4a0fc34e.us2.manus.computer](https://8081-igt87uhrbgx8d9yjt53rc-4a0fc34e.us2.manus.computer)
+
+---
+
+## ✨ Proposta de Valor
+
+O **Jitsi Chess** reimagina a experiência de xadrez online ao eliminar a barreira entre jogo tático e presença social. Diferente de plataformas tradicionais que separam chat de jogo, este app coloca videoconferência e tabuleiro no mesmo espaço, criando uma experiência imersiva onde:
+
+- **Vídeo Integrado**: Veja o rosto do seu oponente em tempo real — suas reações, expressões e linguagem corporal durante os lances mais críticos.
+- **Sala por Chave**: Crie uma sala com uma chave curta e compartilhável; seu amigo entra digitando a mesma chave, sem necessidade de login ou convites complexos.
+- **Controles de Mídia Acessíveis**: Alterne microfone e câmera com um toque, mantendo o foco no jogo.
+- **Tabuleiro Responsivo**: Interface otimizada para uso com uma mão em orientação retrato, com destaque visual para peças selecionadas e movimentos permitidos.
+- **Regras Completas**: Movimentos legais para todas as peças, detecção de xeque, captura e alternância de turno.
+
+---
+
+## 🎮 Instruções de Uso
+
+### 1. Instalação
+
+#### Opção A: Via Expo Go (Mais Rápido)
+1. Instale o **Expo Go** no seu dispositivo Android ([Google Play](https://play.google.com/store/apps/details?id=host.exp.exponent))
+2. Escaneie o QR code acima
+3. O app carregará automaticamente
+
+#### Opção B: Clonar e Executar Localmente
+```bash
+git clone https://github.com/seu-usuario/jitsi-chess-mobile.git
+cd jitsi-chess-mobile
+pnpm install
+pnpm dev
+```
+
+### 2. Criar uma Sala
+
+1. Abra o app e insira seu **nome de usuário** (ex: "João")
+2. Toque em **"Criar sala e iniciar"**
+3. O app gera uma chave curta (ex: `CHESS-ABCD-2345`)
+4. **Compartilhe a chave** com seu amigo (via WhatsApp, SMS, etc.)
+
+### 3. Entrar em uma Sala Existente
+
+1. Insira seu **nome de usuário**
+2. Cole ou digite a **chave da sala** recebida do seu amigo
+3. Toque em **"Entrar com chave existente"**
+4. Você será conectado à mesma sala de videoconferência
+
+### 4. Jogar
+
+- **Selecionar peça**: Toque em uma peça de sua cor
+- **Mover**: Toque em uma casa destacada (movimento permitido)
+- **Microfone**: Toque o ícone para ativar/desativar áudio
+- **Câmera**: Toque o ícone para ligar/desligar vídeo
+- **Copiar chave**: Toque para copiar a chave da sala para a área de transferência
+- **Reiniciar**: Toque para começar uma nova partida
+
+---
+
+## 📸 Capturas de Tela
+
+### Tela de Lobby
+A tela inicial onde você insere seu nome e escolhe criar ou entrar em uma sala.
+
+```
+┌─────────────────────────────┐
+│      Jitsi Chess            │
+│  Jogue xadrez com um amigo  │
+│  enquanto vê suas reações   │
+├─────────────────────────────┤
+│                             │
+│  SEU PERFIL                 │
+│  [Ex.: MagnusBR]            │
+│                             │
+│  SALA COM CHAVE             │
+│  [CHESS-ABCD-2345]          │
+│                             │
+│  [Criar sala e iniciar]     │
+│  [Entrar com chave...]      │
+│                             │
+└─────────────────────────────┘
+```
+
+### Tela de Partida
+O layout central com vídeo remoto no topo, tabuleiro no meio e vídeo local embaixo.
+
+```
+┌─────────────────────────────┐
+│   📹 Seu Amigo (Vídeo)      │
+├─────────────────────────────┤
+│                             │
+│    ♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜       │
+│    ♟ ♟ ♟ ♟ ♟ ♟ ♟ ♟       │
+│                             │
+│    [Tabuleiro de Xadrez]    │
+│                             │
+│    ♙ ♙ ♙ ♙ ♙ ♙ ♙ ♙       │
+│    ♖ ♘ ♗ ♕ ♔ ♗ ♘ ♖       │
+│                             │
+├─────────────────────────────┤
+│   📹 Você (Vídeo Local)     │
+├─────────────────────────────┤
+│  🔊  📷  📋  🔄             │
+│ Mic Câm Copy Restart        │
+└─────────────────────────────┘
+```
+
+---
+
+## 🛠️ Tecnologia
+
+| Componente | Tecnologia |
+|---|---|
+| **Framework** | React Native com Expo 54 |
+| **Linguagem** | TypeScript 5.9 |
+| **Estilo** | NativeWind (Tailwind CSS) |
+| **Videoconferência** | Jitsi Meet (via navegador) |
+| **Testes** | Vitest |
+| **Gerenciador de Pacotes** | pnpm |
+
+### Dependências Principais
+- `expo-router` — Navegação e roteamento
+- `expo-web-browser` — Abertura de sala Jitsi
+- `expo-clipboard` — Cópia de chave da sala
+- `react-native-reanimated` — Animações suaves
+- `react-native-safe-area-context` — Compatibilidade com notches
+
+---
+
+## 📋 Funcionalidades Implementadas
+
+- ✅ Lobby com entrada de username e chave de sala
+- ✅ Geração local de chave curta (ex: `CHESS-ABCD-2345`)
+- ✅ Tabuleiro de xadrez responsivo em orientação retrato
+- ✅ Movimentos legais para todas as peças (peão, cavalo, bispo, torre, rainha, rei)
+- ✅ Detecção de xeque
+- ✅ Captura de peças
+- ✅ Alternância de turno
+- ✅ Integração com Jitsi Meet via sala nomeada
+- ✅ Controles de microfone (ativar/mutar)
+- ✅ Controles de câmera (ligar/desligar)
+- ✅ Cópia de chave da sala para compartilhamento
+- ✅ Reinício de partida local
+- ✅ Tema visual personalizado (cores de clube de xadrez moderno)
+- ✅ Ícone original do aplicativo
+- ✅ Testes unitários para sala e integração Jitsi
+
+---
+
+## 🚀 Próximos Passos
+
+Melhorias planejadas para futuras versões:
+
+1. **Sincronização em Tempo Real**: Usar WebSocket ou Firebase para sincronizar lances entre dispositivos
+2. **Regras Avançadas**: Implementar roque, en passant e promoção de peão
+3. **Histórico de Partidas**: Salvar e revisar partidas anteriores
+4. **Convite por Link**: Gerar link compartilhável que abre a sala automaticamente
+5. **Modo Offline**: Jogar contra o computador ou amigo no mesmo dispositivo
+6. **Notificações**: Alertar quando é a vez do jogador
+7. **SDK Jitsi Nativo**: Substituir navegador por SDK nativo para melhor controle de áudio/vídeo
+
+---
+
+## 📄 Licença
+
+Este projeto é fornecido como está para fins educacionais e de demonstração.
+
+---
+
+## 🤝 Contribuições
+
+Sugestões e melhorias são bem-vindas! Abra uma issue ou envie um pull request.
+
+---
+
+## 📞 Suporte
+
+Para dúvidas ou problemas, consulte a [documentação do Expo](https://docs.expo.dev) ou abra uma issue neste repositório.
+
+---
+
+**Desenvolvido com ❤️ usando Expo e React Native**
