@@ -37,12 +37,12 @@ Atualmente cursando o 2º período de Analise e Desenvolvimento de Sistemas na U
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **SM1 - A Corrida do Prompt** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](https://github.com/GabrielPedro719/portfolio-gabriel-pedro-moreira/tree/main/SM1-A-Corrida-do-Prompt) |
-| **SM2 - Laboratório de Classificação Visual** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) | 
-| **SM3 - Batalha de Modelos & Engenharia de Prompt (XML)** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) | 
-| **SM4 - Engenharia Reversa** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) | 
-| **SM5 - Do Clone ao Produto Mínimo Viável (MVP+)** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) | 
-| **SM6 - Engenharia de Software e IA com Bubble.io** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) | 
-| **SM7 - Desenvolvimento de App de Videoconferência com Manus AI e Jitsi** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](projeto-jitsi-meet-jitsi-chess) | 
+| **SM2 - Laboratório de Classificação Visual** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](https://github.com/GabrielPedro719/portfolio-gabriel-pedro-moreira/tree/main/SM2-Laborat%C3%B3rio-de-Classifica%C3%A7%C3%A3-Visual) | 
+| **SM3 - Batalha de Modelos & Engenharia de Prompt (XML)** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](https://github.com/GabrielPedro719/portfolio-gabriel-pedro-moreira/tree/main/SM3-Batalha-de-Modelos-%26-Engenharia-de-PrompT-(XML)) | 
+| **SM4 - Engenharia Reversa** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](https://github.com/GabrielPedro719/portfolio-gabriel-pedro-moreira/tree/main/SM4-Engenharia-Reversa) | 
+| **SM5 - Do Clone ao Produto Mínimo Viável (MVP+)** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](.https://github.com/GabrielPedro719/portfolio-gabriel-pedro-moreira/tree/main/SM5-Do-Clone-ao-Produto-M%C3%ADnimo-Vi%C3%A1vel-(MVP%2B)) | 
+| **SM6 - Engenharia de Software e IA com Bubble.io** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](https://github.com/GabrielPedro719/portfolio-gabriel-pedro-moreira/tree/main/SM6-Engenharia-de-Software-e-IA-com%20Bubble) | 
+| **SM7 - Desenvolvimento de App de Videoconferência com Manus AI e Jitsi** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](https://github.com/GabrielPedro719/portfolio-gabriel-pedro-moreira/tree/main/SM7-Desenvolviento-de-App-de-Videoconfer%C3%AAncia-com-Manus-AI-e-Jitsi) | 
 | **SM8 - Composição Musical Assistida por Inteligência Artificial** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](projeto-jitsi-meet-jitsi-chess) | 
 
 
