@@ -1,0 +1,29 @@
+# 🚀 Engenharia de Prompt com LLMs
+ 
+> Atividade prática de comunicação com modelos de linguagem para obtenção de resultados de alta precisão.
+ 
+---
+ 
+## 📋 Descrição
+ 
+Nesta atividade, os alunos atuam como **engenheiros de instrução**, dominando a técnica de comunicação com modelos de linguagem (LLMs) para obter resultados precisos com o menor número de iterações possível.
+ 
+**Ferramenta utilizada:** [Qwen AI](https://qwen.ai/)  
+**Formato:** Trios | Dispositivo móvel  
+**Limite de tentativas:** 5 iterações
+ 
+---
+ 
+## 🎯 Objetivo
+ 
+Gerar um resultado específico (texto ou imagem) definido pelo professor, refinando progressivamente os prompts até atingir a **perfeição** dentro do limite estabelecido.
+ 
+---
+ 
+## 🎮 Dinâmica
+ 
+### 1. A Largada
+O professor fornece o **"Alvo"** — o resultado desejado. Exemplos:
+ 
+- *"Uma imagem de um astronauta estilo barroco tocando violoncelo em Marte"*
+- *"Um e-mail formal de desculpas de um pirata para um rei"*
