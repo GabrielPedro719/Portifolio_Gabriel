@@ -36,9 +36,7 @@ Atualmente cursando o 2º período de Analise e Desenvolvimento de Sistemas na U
  #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **SM1 - A Corrida do Prompt** | Atividade para desenvolver a comunicação com modelos  (LLMs) para obter resultados de alta precisão no menor tempo possível.
-
- | [Ver Projeto](https://github.com/GabrielPedro719/portfolio-gabriel-pedro-moreira/tree/main/SM1-A-Corrida-do-Prompt) |
+| **SM1 - A Corrida do Prompt** | Atividade para desenvolver a comunicação com modelos  (LLMs) para obter resultados de alta precisão no menor tempo possível.| [Ver Projeto](https://github.com/GabrielPedro719/portfolio-gabriel-pedro-moreira/tree/main/SM1-A-Corrida-do-Prompt) |
 | **SM2 - Laboratório de Classificação Visual** | Experimento para treinar e alimentar a IA para que ela reconheça padrões estéticos.  
 | [Ver Projeto](https://github.com/GabrielPedro719/portfolio-gabriel-pedro-moreira/tree/main/SM2-Laborat%C3%B3rio-de-Classifica%C3%A7%C3%A3-Visual) | 
 | **SM3 - Batalha de Modelos & Engenharia de Prompt (XML)** | Analise de resultados em diversas ferramentas de IA de prompts estruturados em XML para gerar uma página HTML Single Page com CSS integrado. 
