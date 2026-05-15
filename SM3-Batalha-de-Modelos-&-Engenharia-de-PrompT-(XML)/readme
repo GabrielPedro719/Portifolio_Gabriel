@@ -1,0 +1,37 @@
+# 🧪 Análise Comparativa de LLMs — Fidelidade a Prompt XML
+ 
+> Experimento de avaliação técnica da conformidade de diferentes modelos de linguagem ao seguir instruções estruturadas em XML para geração de páginas HTML/CSS.
+ 
+---
+ 
+## 📋 Descrição
+ 
+Atividade de análise crítica que testa a capacidade de sete LLMs diferentes em respeitar fielmente um prompt estruturado em XML para geração de uma página HTML Single Page com CSS integrado. O foco **não é estética**, mas sim **fidelidade às instruções**.
+ 
+**Ferramentas testadas:** ChatGPT · Gemini · Claude · Qwen · DeepSeek · Grok · Maritaca  
+**Formato:** Individual | Dispositivo móvel  
+**Critério de avaliação:** Conformidade técnica ao XML, não preferência visual
+ 
+---
+## 🚀 Protocolo de Execução
+ 
+1. **Submissão** — O mesmo prompt XML foi enviado para cada ferramenta via celular
+2. **Coleta de Dados** — Avaliação da fidelidade ao XML (tags respeitadas, cores corretas, estrutura mantida)
+3. **Registro de Performance** — Consumo de tokens informado ou estimado por cada ferramenta
+---
+ 
+## 📊 Quadro de Análise Comparativa
+ 
+| Critério de Avaliação | ChatGPT | Gemini | Claude | Qwen | DeepSeek | Grok | Maritaca |
+|-----------------------|:-------:|:------:|:------:|:----:|:--------:|:----:|:--------:|
+| Respeitou todas as tags XML | ✅/❌ | ✅/❌ | ✅/❌ | ✅/❌ | ✅/❌ | ✅/❌ | ✅/❌ |
+| Cores corretas geradas | ✅/❌ | ✅/❌ | ✅/❌ | ✅/❌ | ✅/❌ | ✅/❌ | ✅/❌ |
+| CSS integrado no HTML | ✅/❌ | ✅/❌ | ✅/❌ | ✅/❌ | ✅/❌ | ✅/❌ | ✅/❌ |
+| Single Page respeitada | ✅/❌ | ✅/❌ | ✅/❌ | ✅/❌ | ✅/❌ | ✅/❌ | ✅/❌ |
+| Tags ignoradas (qtd.) | — | — | — | — | — | — | — |
+| Tokens estimados | — | — | — | — | — | — | — |
+| **Score geral (0–5)** | — | — | — | — | — | — | — |
+ 
+> **Legenda:** ✅ Respeitou · ❌ Ignorou/Falhou · — Preencher com dado real
+ 
+---
