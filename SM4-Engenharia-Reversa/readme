@@ -1,0 +1,16 @@
+# 🔍 Engenharia Reversa de WebApp com IA — Google AI Studio
+ 
+> Reconstrução de aplicativo funcional a partir da observação de interface, sem acesso ao código-fonte original, utilizando o Gemini como desenvolvedor Full-Stack assistido por IA.
+ 
+---
+ 
+## 📋 Descrição
+ 
+Atividade de desenvolvimento assistido por IA onde o papel assumido é o de **Desenvolvedor de Software**. O desafio é reconstruir um webapp funcional apenas observando sua interface externa — sem visualizar o código-fonte original nem fornecer o link diretamente ao modelo.
+ 
+**Ferramenta utilizada:** [Google AI Studio](https://aistudio.google.com/)  
+**Modelo:** Gemini  
+**Stack gerada:** HTML · CSS · JavaScript
+ 
+---
+
