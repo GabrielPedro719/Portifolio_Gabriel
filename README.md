@@ -36,7 +36,7 @@ Atualmente cursando o 2º período de Analise e Desenvolvimento de Sistemas na U
  #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **SM1 - A Corrida do Prompt** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
+| **SM1 - A Corrida do Prompt** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](https://github.com/GabrielPedro719/portfolio-gabriel-pedro-moreira/tree/main/SM1-A-Corrida-do-Prompt) |
 | **SM2 - Laboratório de Classificação Visual** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) | 
 | **SM3 - Batalha de Modelos & Engenharia de Prompt (XML)** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) | 
 | **SM4 - Engenharia Reversa** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) | 
