@@ -1,0 +1,53 @@
+ 🤖 Viés Algorítmico na Prática — Teachable Machine
+ 
+> Laboratório de classificação visual com análise crítica sobre ética em Inteligência Artificial e impacto social de dados enviesados.
+ 
+---
+ 
+## 📋 Descrição
+ 
+Atividade dividida em duas partes: um experimento técnico de treinamento de modelo de visão computacional com dados deliberadamente enviesados, seguido de uma reflexão ética sobre as consequências reais desse viés.
+ 
+**Ferramenta utilizada:** [Teachable Machine — Google](https://teachablemachine.withgoogle.com/)  
+**Formato:** Individual ou em grupo | Navegador web
+ 
+---
+ 
+## 🧪 Parte 1 — Laboratório de Classificação Visual
+ 
+### Categorias criadas
+ 
+| Classe | Critério de treinamento (enviesado) |
+|--------|--------------------------------------|
+| 🏆 Perfil Liderança | Homens com traje social/terno |
+| 🔧 Perfil Operacional | Mulheres ou pessoas com roupas informais |
+ 
+### Dataset
+ 
+- **20 imagens** por categoria
+- Critérios **deliberadamente estereotipados** para evidenciar o viés
+### Teste de Inferência
+ 
+A câmera foi apontada para um colega ou objeto que **não se encaixava** nos padrões capturados durante o treinamento, revelando a falha do modelo.
+ 
+### 📸 Evidência Visual — Classificação Incorreta
+ 
+> *Insira aqui o print da tela com a classificação incorreta do modelo (falso positivo ou falso negativo).*
+ 
+---
+ 
+## ✍️ Parte 2 — Memorial de Impacto e Ética
+ 
+### 1. Mecanismo do Viés
+ 
+A seleção restrita de dados corrompe a lógica do algoritmo porque o modelo aprende padrões superficiais — cor de roupa, gênero percebido, aparência — em vez de critérios relevantes para liderança ou capacidade profissional. O sistema associa características visuais arbitrárias a categorias de valor, e essa associação se replica e se amplifica a cada inferência. O algoritmo não raciocina; ele generaliza o que vê. Quando os dados de entrada refletem preconceitos históricos, o modelo os reproduz como se fossem verdades objetivas, criando uma visão distorcida e reducionista da realidade.
+ 
+### 2. Consequência Social
+ 
+O impacto sobre o indivíduo marginalizado por esse sistema é profundo. No plano profissional, a pessoa enfrenta barreiras invisíveis: o algoritmo a descarta antes mesmo de uma análise humana, negando oportunidades de seleção, promoção ou reconhecimento. No plano emocional, a exclusão sistemática reforça uma mensagem silenciosa de inadequação — como se sua aparência determinasse seu valor. O dano é duplo: objetivo, pois afeta trajetórias de carreira concretas; e subjetivo, pois erode a autoestima e a sensação de pertencimento de quem já ocupa posições historicamente sub-representadas.
+ 
+### 3. Ação Mitigadora — Human-in-the-loop
+ 
+A intervenção proposta institui uma etapa obrigatória de curadoria humana diversificada **antes** da validação final do dataset. Um comitê multidisciplinar — com representantes de diferentes gêneros, etnias e áreas — revisa e aprova cada lote de imagens, garantindo que os critérios de classificação sejam funcionais e não identitários. Além disso, o processo exige a documentação explícita dos critérios de inclusão e exclusão de cada imagem, criando rastreabilidade e responsabilidade. Essa revisão humana não substitui o modelo, mas filtra o que o alimenta, assegurando que a automação amplifique equidade em vez de preconceito.
+ 
+---
